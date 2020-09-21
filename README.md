@@ -11,7 +11,7 @@ thank u <3 -->
 
 <p align="center">
 <img align="center" alt="website-status" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website%20status%3A&style=for-the-badge&up_color=45d111&up_message=online&url=https%3A%2F%2Fanonhexo.github.io"></img>
-<img align="center" alt="last-update" src="https://img.shields.io/github/last-commit/AnonHexo/AnonHexo?label=last%20readme%20update%3A&style=for-the-badge">
+<img align="center" alt="last-update" src="https://img.shields.io/github/last-commit/AnonHexo/AnonHexo?label=last%20profile%20update%3A&style=for-the-badge">
 </p>
 <p align="center">
 <!-- <img align="center" alt="krunker-hack-working-status" src="https://img.shields.io/badge/-krunker%20hack%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img> -->

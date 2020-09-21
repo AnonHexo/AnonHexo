@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
 
 # 🛠️ Tools
-![VSCode](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-vsacode-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-f1502f?&style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white)
 

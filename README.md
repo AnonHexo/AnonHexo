@@ -45,7 +45,7 @@ thank u <3 -->
 ![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
 
 # 🛠️ Tools
-![VSCode](https://img.shields.io/badge/-vsacode-0078d7?style=for-the-badge&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-f1502f?&style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -60,7 +60,7 @@ thank u <3 -->
 <a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo
 " target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></a>
 <a href="mailto:anonhexo@gmail.com?subject=[from%20GitHub]" target="_blank"><img src="https://img.shields.io/badge/-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
-<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=333"></a>
+<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&logo=github&color=333"></a>
 </p>
 </div>
 

@@ -51,17 +51,16 @@ thank u <3 -->
 # 📫 Contact & Socials
 
 <p>
-<a href"https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/Instagram-jacky.trave-informational?style=for-the-badge&labelColor=black&logo=instagram&logoColor=8a3ab9&&color=8a3ab9"></a>
-<a href"https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000&colorB=FF0000"></a>
+<a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/Instagram-jacky.trave-informational?style=for-the-badge&labelColor=black&logo=instagram&logoColor=8a3ab9&&color=8a3ab9"></a>
+<a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000&colorB=FF0000"></a>
 </p>
 
-<p>
-<a href"https://stackoverflow.com/users/13221104/alphyx-anonhexo
+<p align="center">
+<a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo
 " target="_blank"><img src="https://img.shields.io/badge/StackOverflow-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></a>
-<a href"mailto:anonhexo@gmail.com?subject=[from%20GitHub]%20*name*&body=*message*" target="_blank"><img src="https://img.shields.io/badge/Gmail-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
-<a href"https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/Github-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"></a>
+<a href="mailto:anonhexo@gmail.com?subject=[from%20GitHub]%20*name*&body=*message*" target="_blank"><img src="https://img.shields.io/badge/Gmail-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
+<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/Github-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"></a>
 </p>
-
 
 <!-- Hey you, wait a second and read this:
 if you are reading this means that you're viewing the "source code" of my readme,

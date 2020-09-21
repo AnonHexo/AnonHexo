@@ -6,7 +6,7 @@ and learn some HTML on https://www.w3schools.com/html/ but PLEASE don't STEAL MY
 thank u <3 -->
 
 
-<div align="center"
+<div align="center">
 # <p align="center">️ **Hi, I'm AnonHexo** 🎯️🚀️🪐</p>
 
 <p align="center">

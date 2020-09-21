@@ -6,7 +6,7 @@ and learn some HTML on https://www.w3schools.com/html/ but PLEASE don't STEAL MY
 thank u <3 -->
 
 
-<div align="center">
+
 # <p align="center">️ **Hi, I'm AnonHexo** 🎯️🚀️🪐</p>
 
 <p align="center">
@@ -32,6 +32,7 @@ thank u <3 -->
 
 ---
 
+<div align="center">
 <p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/?username=AnonHexo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000"/>
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonHexo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" />

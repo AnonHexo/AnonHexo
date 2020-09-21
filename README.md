@@ -52,7 +52,7 @@ thank u <3 -->
 # 📫 Contact & Socials
 
 <p>
-<a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/-jacky.trave-informational?style=for-the-badge&labelColor=black&logo=instagram&logoColor=8a3ab9&&color=8a3ab9"></a>
+<a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/-jacky.trave-informational?style=for-the-badge&labelColor=black&logo=instagram&logoColor=c32aa3&&color=c32aa3"></a>
 <a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000&colorB=FF0000"></a>
 </p>
 

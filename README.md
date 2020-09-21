@@ -60,7 +60,7 @@ thank u <3 -->
 <a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo
 " target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></a>
 <a href="mailto:anonhexo@gmail.com?subject=[from%20GitHub]" target="_blank"><img src="https://img.shields.io/badge/-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
-<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=4078c0"></a>
+<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=333"></a>
 </p>
 </div>
 

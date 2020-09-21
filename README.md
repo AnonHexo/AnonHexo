@@ -32,6 +32,10 @@ thank u <3 -->
 
 ---
 
+<!--START_SECRION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">
 <p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/?username=AnonHexo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000"/>

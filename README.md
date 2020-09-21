@@ -32,8 +32,7 @@ thank u <3 -->
 
 ---
 
-<!--START_SECRION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
 
 
 <div align="center">

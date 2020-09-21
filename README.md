@@ -51,24 +51,16 @@ thank u <3 -->
 # 📫 Contact & Socials
 
 <p>
-[<img src="https://img.shields.io/badge/Instagram-jacky.trave-informational?style=for-the-badge&labelColor=black&logo=instagram&logoColor=8a3ab9&&color=8a3ab9"/>][instagram]
-[<img src="https://img.shields.io/badge/YouTube-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000&colorB=FF0000"/>][youtube]
+<a href"https://instagram.com/jacky.trave" <img src="https://img.shields.io/badge/Instagram-jacky.trave-informational?style=for-the-badge&labelColor=black&logo=instagram&logoColor=8a3ab9&&color=8a3ab9"/>/>
+<a href"https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" <img src="https://img.shields.io/badge/YouTube-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000&colorB=FF0000"/>/>
 </p>
 
 <p>
-[<img src="https://img.shields.io/badge/StackOverflow-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
-[<img src="https://img.shields.io/badge/Gmail-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][mail]
-[<img src="https://img.shields.io/badge/Github-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+<a href"https://stackoverflow.com/users/13221104/alphyx-anonhexo
+" <img src="https://img.shields.io/badge/StackOverflow-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>/>
+<a href"mailto:anonhexo@gmail.com?subject=[from%20GitHub]%20*name*&body=*message*" <img src="https://img.shields.io/badge/Gmail-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>/>
+<a href"https://github.com/AnonHexo" <img src="https://img.shields.io/badge/Github-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>/>
 </p>
-
-
-
-[instagram]: https://instagram.com/jacky.trave
-[youtube]: https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1
-[stackoverflow]: https://stackoverflow.com/users/13221104/alphyx-anonhexo
-[mail]: mailto:anonhexo@gmail.com?subject=[from%20GitHub]%20*name*&body=*message*
-[github]: https://github.com/AnonHexo
-
 
 
 <!-- Hey you, wait a second and read this:

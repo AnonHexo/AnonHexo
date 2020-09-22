@@ -21,6 +21,7 @@ thank u <3 -->
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
+<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
 
 ## **About Me**
 
@@ -33,8 +34,6 @@ thank u <3 -->
 ---
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//AnonHexo/Krunker/pull/1) in [AnonHexo/Krunker](https://github.com//AnonHexo/Krunker)
-2. 💪 Opened PR [#1](https://github.com//AnonHexo/Krunker/pull/1) in [AnonHexo/Krunker](https://github.com//AnonHexo/Krunker)
 <!--END_SECTION:activity-->
 
 

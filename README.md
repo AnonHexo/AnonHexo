@@ -63,7 +63,7 @@ thank u <3 -->
 
 <p>
 <a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/-instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white">
-<a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-youtube-f0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
 </p>  
 
 <p>

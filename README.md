@@ -32,6 +32,9 @@ thank u <3 -->
 
 ---
 
+<!--START_ACTIVITY:waka-->
+<!--END_ACTIVITY:waka-->
+
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com//AnonHexo/Krunker/pull/1) in [AnonHexo/Krunker](https://github.com//AnonHexo/Krunker)
 2. 💪 Opened PR [#1](https://github.com//AnonHexo/Krunker/pull/1) in [AnonHexo/Krunker](https://github.com//AnonHexo/Krunker)

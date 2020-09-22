@@ -28,7 +28,7 @@ thank u <3 -->
 - I always love to 👨‍💻 work with **Visual Studio Code**.
 - I want to learn everytime ⏰ so any suggestion will be **appreciated**. 💪
 
-### **Currently Developing:** <a href="https://raw.githubusercontent.com/AnonHexo/AnonHexo/master/src/woring-on.txt" title="Click the Emoji.">👨‍🎓️️</a>
+### **Currently Developing:** <a href="/src/woring-on.txt" title="Click the Emoji.">👨‍🎓️️</a>
 
 ---
 

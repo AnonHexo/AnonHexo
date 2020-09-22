@@ -21,7 +21,7 @@ thank u <3 -->
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
-<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
+<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
 
 ## **About Me**
 

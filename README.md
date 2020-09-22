@@ -62,15 +62,14 @@ thank u <3 -->
 # 📫 Contact & Socials
 
 <p>
-<a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/-instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=youtube&logoColor=ff0000&colorB=FF0000"></a>
-</p>
+<a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/-instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-youtube-f0000?style=for-the-badge&logo=youtube&logoColor=white">
+</p>  
 
 <p>
-<a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo
-" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></a>
-<a href="mailto:anonhexo@gmail.com?subject=[from%20GitHub]" target="_blank"><img src="https://img.shields.io/badge/-anonhexo@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
-<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-AnonHexo-informational?style=for-the-badge&logo=github&color=333"></a>
+<a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo" target="_blank"><img src="https://img.shields.io/badge/-stackoverflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white">
+<a href="mailto:anonhexo@gmail.com?subject=[from%20GitHub]" target="_blank"><img src="https://img.shields.io/badge/-gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-github-333?style=for-the-badge&logo=github&logoColor=white">
 </p>
 </div>
 

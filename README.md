@@ -21,9 +21,8 @@ thank u <3 -->
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
-<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
 
-## **About Me**
+## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
 
 - I'm aspiring 🔭️ Full-Stack Web Developer, currently learning 🌱 **JavaScript Website Development**.
 - I always love to 👨‍💻 work with **Visual Studio Code**.

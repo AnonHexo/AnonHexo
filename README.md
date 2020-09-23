@@ -19,7 +19,7 @@ thank u <3 -->
 </p> -->
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="/src/code.gif">
 </br>
 
 ## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">

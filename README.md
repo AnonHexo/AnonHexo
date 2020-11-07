@@ -25,7 +25,7 @@ thank u <3 -->
 
 ## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
 
-- I'm aspiring 🔭️ Full-Stack Web Developer, currently learning 🌱 **JavaScript Website Development**.
+- I'm aspiring 🔭️ Full-Stack Web Developer, currently learning 🌱 **JavaScript**.
 - I always love to 👨‍💻 work with **Visual Studio Code**.
 - I want to learn everytime ⏰ so any suggestion will be **appreciated**. 💪
 

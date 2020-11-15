@@ -10,7 +10,7 @@ thank u <3 -->
 # <p align="center">️ **Hi, <img align="center" src="/src/emoji_1.gif" weight=50 height=50> I'm AnonHexo**</p>
 
 <p align="center">
-<img align="center" alt="website-status" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website%20status%3A&style=for-the-badge&up_color=45d111&up_message=online&url=https%3A%2F%2Fanonhexo.github.io"></img>
+<a href="https://anonhexo.github.io"><img align="center" alt="website-status" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=website%20status%3A&style=for-the-badge&up_color=45d111&up_message=online&url=https%3A%2F%2Fanonhexo.github.io"></img></a>
 <img align="center" alt="last-update" src="https://img.shields.io/github/last-commit/AnonHexo/AnonHexo?label=last%20profile%20update%3A&style=for-the-badge">
 <a href="https://discord.gg/kvgHTnV"><img align="center" alt="discord" src="https://img.shields.io/discord/680426147565404165?label=discord%20server&style=for-the-badge"></a>
 </p>

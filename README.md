@@ -29,7 +29,7 @@ thank u <3 -->
 - I always love to 👨‍💻 work with **Visual Studio Code**.
 - I want to learn everytime ⏰ so any suggestion will be **appreciated**. 💪
 
-### **Currently Developing:** click here >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="Click the Emoji.">👨‍🎓️️</a>
+### **Currently Developing:** >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click me">👨‍🎓️️</a>
 
 ---
 

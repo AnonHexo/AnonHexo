@@ -1,12 +1,3 @@
-<!-- Hey you, wait a second and read this:
-if you are reading this means that you're viewing the "source code" of my readme,
-I'll let you see this but I just wanna ask you a favour: please don't steal and copy
-my readme; you can do it your own: use https://shields.io for the badges use the EmojiPixel extension for the emoji
-and learn some HTML on https://www.w3schools.com/html/ but PLEASE don't STEAL MY README!
-thank u <3 -->
-
-
-
 # <p align="center">️ **Hi, <img align="center" src="/src/emoji_1.gif" weight=50 height=50> I'm AnonHexo**</p>
 
 <p align="center">
@@ -40,12 +31,14 @@ thank u <3 -->
 </p>
 
 # ⌨️ Languages
+![C++](https://img.shields.io/badge/-C%2B%2B-283593?style=for-the-badge&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-html-e34c26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-javascript-CFB402?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
 
 # 🛠️ Tools
+![Visual Studio](https://img.shields.io/badge/-visual%20studio-652076?style=for-the-badge&logo=visual-studio)
 ![VSCode](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-f1502f?&style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/-windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white)
@@ -65,7 +58,7 @@ thank u <3 -->
 </div>
 
 <!-- Hey you, wait a second and read this:
-if you are reading this means that you're viewing the "source code" of my readme,
-I just wanna ask you a favour: please don't steal and copy my readme,
-you can do it your own: use https://shields.io for the badges use the EmojiPixel extension for the emoji
+if you are reading this means that you're viewing the source code of my readme,
+I just wanna ask you a favour: please don't steal and copy it,
+you can do your own: use https://shields.io for the badges use the EmojiPixel extension for the emoji
 and learn some HTML on https://www.w3schools.com/html/ but please don't steal! thank u <3 -->

@@ -59,14 +59,13 @@ thank u <3 -->
 
 <p>
 <a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo" target="_blank"><img src="https://img.shields.io/badge/-stackoverflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white">
-<a href="mailto:anonhexo@gmail.com?subject=[from%20GitHub]" target="_blank"><img src="https://img.shields.io/badge/-gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:anonhexo@pm.me?subject=[from%20GitHub]" target="_blank"><img src="https://img.shields.io/badge/-gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a href="https://github.com/AnonHexo" target="_blank"><img src="https://img.shields.io/badge/-github-333?style=for-the-badge&logo=github&logoColor=white">
 </p>
 </div>
 
 <!-- Hey you, wait a second and read this:
 if you are reading this means that you're viewing the "source code" of my readme,
-I'll let you see this but I just wanna ask you a favour: please don't steal and copy
-my readme; you can do it your own: use https://shields.io for the badges use the EmojiPixel extension for the emoji
-and learn some HTML on https://www.w3schools.com/html/ but PLEASE don't STEAL MY README!
-thank u <3 -->
+I just wanna ask you a favour: please don't steal and copy my readme,
+you can do it your own: use https://shields.io for the badges use the EmojiPixel extension for the emoji
+and learn some HTML on https://www.w3schools.com/html/ but please don't steal! thank u <3 -->

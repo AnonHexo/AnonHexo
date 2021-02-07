@@ -1,1 +1,0 @@
-[Currently Working On:] "JS scripts that you can find in public-scripts repo"

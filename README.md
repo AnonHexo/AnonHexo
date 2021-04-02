@@ -16,11 +16,11 @@
 
 ## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
 
-- I'm aspiring 🔭️ Full-Stack Web Developer, currently learning 🌱 **Node.js**.
-- I always love to 👨‍💻 work with **Visual Studio Code**.
-- I want to learn everytime ⏰ so any suggestion will be **appreciated**. 💪
+- I'm an aspiring 🔭️ **Full-Stack Devloper**, currently learning 🌱 **Node.js**.
+- I always **love** to 👨‍💻 work with **Visual Studio Code**.
+- I am also an **ungry learner** ⏰ so any suggestion will be **appreciated**. 💪
 
-### **Currently Developing:** >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click me">👨‍🎓️️</a>
+### **Currently Developing:** <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click on the emoji">👨‍🎓️️</a>
 
 ---
 
@@ -45,10 +45,10 @@
 
 # 📫 Contact & Socials
 
-<p>
+<!-- <p>
 <a href="https://instagram.com/jacky.trave" target="_blank"><img src="https://img.shields.io/badge/-instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white">
 <a href="https://www.youtube.com/channel/UCLAYBGJbt-cgjZ2TVgi03Mg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
-</p>  
+</p> -->
 
 <p>
 <a href="https://stackoverflow.com/users/13221104/alphyx-anonhexo" target="_blank"><img src="https://img.shields.io/badge/-stackoverflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white">
@@ -59,6 +59,7 @@
 
 <!-- Hey you, wait a second and read this:
 if you are reading this means that you're viewing the source code of my readme,
-I just wanna ask you a favour: please don't steal and copy it,
+I just wanna ask you a favour: please don't just copy it,
 you can do your own: use https://shields.io for the badges use the EmojiPixel extension for the emoji
-and learn some HTML on https://www.w3schools.com/html/ but please don't steal! thank u <3 -->
+and learn some HTML on https://www.w3schools.com/html/ I suggest you to learn instead of justg copying, you will be proud fo yourself! 
+thank you <3 -->
